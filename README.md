@@ -16,8 +16,11 @@ O projeto consiste em um gestor de participantes de eventos.
 - Typescript
 - Tailwind
 
-API utilizada no projeto: 
-https://github.com/rocketseat-education/nlw-unite-nodejs?tab=readme-ov-file
+## Como rodar o projeto:
+
+Na raíz do projeto execute:
+- npm i
+- npm run dev
 
 
 
